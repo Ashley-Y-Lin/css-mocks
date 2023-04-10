@@ -21,10 +21,15 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 200px;
 }
 
 .four {
   width: 100px;
   height: 100px;
   background-color: blue;
+  position: relative;
+  margin-top: 100px;
 }
